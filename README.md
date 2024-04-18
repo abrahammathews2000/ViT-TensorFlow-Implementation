@@ -1,6 +1,8 @@
 # ViT-TensorFlow-Implementation
-TensorFlow Implementation of Vision Transformer.
-Code: https://github.com/abrahammathews2000/ViT-TensorFlow-Implementation/blob/main/ViT_TensorFlow_Implementation_v1.ipynb
+**TensorFlow Implementation of Vision Transformer.**
+
+My Code: https://github.com/abrahammathews2000/ViT-TensorFlow-Implementation/blob/main/ViT_TensorFlow_Implementation_v1.ipynb
+
 ## Some of the resources I used to learn to implement ViT
 
 Codes:
