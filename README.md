@@ -1,13 +1,14 @@
-# ViT-TensorFlow-Implementation
-
-**TensorFlow Implementation of Vision Transformer.**
+# TensorFlow Implementation of Vision Transformer
 
 My Code: https://github.com/abrahammathews2000/ViT-TensorFlow-Implementation/blob/main/ViT_TensorFlow_Implementation_v1.ipynb
 
-**Link to original paper:** https://iclr.cc/virtual/2021/poster/3013
-Original Paper Title: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-Authors: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
+## Link to original paper
 
+https://iclr.cc/virtual/2021/poster/3013
+
+Original Paper Title: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+
+Authors: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
 
 ## Other online resources I used to learn to implement ViT
 
